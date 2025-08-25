@@ -1,0 +1,5 @@
+label,size_px,size_cm,distance,time,location,image_path
+person,583388,29169.4,10,2025-06-07 03:16:16,Lab Zone A,obstacle_logs/person_20250607_031616.jpg
+person,505989,25299.5,10,2025-06-07 03:16:36,Lab Zone A,obstacle_logs/person_20250607_031636.jpg
+person,332640,16632.0,10,2025-06-07 03:16:36,Lab Zone A,obstacle_logs/person_20250607_031636.jpg
+person,533501,26675.1,10,2025-06-07 03:16:53,Lab Zone A,obstacle_logs/person_20250607_031653.jpg
